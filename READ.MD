@@ -4,7 +4,7 @@
 
 I have created a password generator,which ask user's the criteria they want for their password and builds it accorind to that.
 ## Technology
-`
+
 Starter code was already provided, HTML, CSS and javascript
 
 ## Deployed Application

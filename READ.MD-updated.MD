@@ -4,7 +4,7 @@
 
 I have created a password generator,which ask user's the criteria they want for their password and builds it accorind to that.
 ## Technology
-`
+
 Starter code was already provided, HTML, CSS and javascript
 
 ## Deployed Application
@@ -13,7 +13,7 @@ Click [here](https://github.com/mafkar2/module3-password-generator/)for Deployed
 
 ## Usage
 
-For running it you should to the deployed application. Click the "Generate a Password" button ,then select the number of characters for your password the criterias you want or don't for setting your password.
+Go to the deployed application. Click the "Generate a Password" button .select the number of characters for your paasword, select the criterias you want or don't for your password.
 
 ## ScreenShort
 
