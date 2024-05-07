@@ -17,7 +17,8 @@ For running it you should to the deployed application. Click the "Generate a Pas
 
 ## ScreenShort
 
-![alt: Password Generator Image](./assets/Assets/03-javascript-homework-demo.png)
+![alt: Password Generator Image](![alt: Password Generator Image](./Assets/03-javascript-homework-demo.png)
+)
 
 ## Credits
 
